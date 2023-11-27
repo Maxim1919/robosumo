@@ -74,7 +74,7 @@ a {
     justify-content: center;
     height: 100px;
     padding: 10px;
-    background-image:url(img/gradient.png);
+    background-image: url(img/gradient.png);
     background-repeat: no-repeat;
     background-position: 0px 100px;
     transition: all ease 1s;
